@@ -1,0 +1,12 @@
+Nome: GaiaShopping; Morada Rua do Padre Miguel:
+Nome: Zara; Identificação LA-5; Area: 50,00m²; Volume de Receitas: 15000,00€. 
+Nome: JD; Identificação LA-6; Area: 28,00m²; Volume de Receitas: 16000,00€. 
+Nome: SportZone; Identificação LA-7; Area: 120,00m²; Volume de Receitas: 20000,00€. 
+Nome: Mango; Identificação LA-8; Area: 30,00m²; Volume de Receitas: 11000,00€. 
+Nome: TacoBell; Identificação LC-8; Area: 26,00m²; Volume de Receitas: 25000,00€; Número de funcionários: 10. 
+Nome: PizzaHut; Identificação LC-9; Area: 190,00m²; Volume de Receitas: 21000,00€; Número de funcionários: 18. 
+Nome: BurgerKing; Identificação LC-10; Area: 30,00m²; Volume de Receitas: 17000,00€; Número de funcionários: 10. 
+Nome: McDonalds; Identificação LC-11; Area: 160,00m²; Volume de Receitas: 40000,00€; Número de funcionários: 22. 
+Nome: Quiosque A; Identificação LC-12; Area: 19,00m²; Volume de Receitas: 9000,00€; Número de funcionários: 2. 
+Nome: Quiosque B; Identificação LC-13; Area: 20,00m²; Volume de Receitas: 7500,00€; Número de funcionários: 2. 
+Nome: Quiosque C; Identificação LC-14; Area: 30,00m²; Volume de Receitas: 11000,00€; Número de funcionários: 4. 
